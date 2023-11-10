@@ -27,6 +27,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Mock-Up
 
-
+![Alt text](ecommerce.PNG)
 
 ### Links
+
+https://github.com/kawam001/eCommerce
+
+
+https://dashboard.heroku.com/apps/ecommerce-kawam
+
+
+https://youtu.be/Y1LpL_aaQCE
